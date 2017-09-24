@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<mission id="startingMission">
+	<goals>
+	</goals>
+	<missionStart>loadConditionalActions:Actions/StartingActions.xml</missionStart>
+	<nextMission>NONE</nextMission>
+	<email>
+		<sender>Anonymous</sender>
+		<subject>No subject</subject>
+		<body>Story goes here.
+		</body>
+		<attachments>
+		</attachments>
+	</email>
+</mission>

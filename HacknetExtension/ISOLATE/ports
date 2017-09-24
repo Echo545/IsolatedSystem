@@ -1,0 +1,24 @@
+██████╗  ██████╗ ██████╗ ████████╗    ██╗     ██╗███████╗████████╗
+██╔══██╗██╔═████╗██╔══██╗╚══██╔══╝    ██║    ███║██╔════╝╚══██╔══╝
+██████╔╝██║██╔██║██████╔╝   ██║       ██║    ╚██║███████╗   ██║   
+██╔═══╝ ████╔╝██║██╔══██╗   ██║       ██║     ██║╚════██║   ██║   
+██║     ╚██████╔╝██║  ██║   ██║       ███████╗██║███████║   ██║   
+╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚══════╝╚═╝╚══════╝   ╚═╝   
+                                                                  
+
+
+
+Port#: 211		  - Transfer
+Port#: 22		       - SSH : OPEN   -       #SSH_CRACK#
+Port#: 80	    - HTTP WebServer : OPEN   -       #WEB_CRACK#
+Port#: 25	   - SMTP MailServer : OPEN   -      #SMTP_CRACK#
+Port#: 21		- FTP Server : OPEN   -       #FTP_CRACK# / #FTP_FAST_EXE#
+Port#: 1433		- SQL Server : OPEN   -       #SQL_CRACK#
+Port#: 104	  - Medical Services : OPEN   - #MEDICAL_PROGRAM#
+Port#: 6881		- BitTorrent : OPEN   -     #TORRENT_EXE#
+Port#: 443	       - HTTPS (SSL) : OPEN   -         #SSL_EXE#
+Port#: 192	 - Pacific Dedicated : OPEN   -     #PACIFIC_EXE#
+Port#: 554		      - RTSP : OPEN   -        #RTSP_EXE#
+Port#: 9418	   - Version Control
+Port#: 3724	  - Blizzard Updater
+Port#: 3659 - eOS Connection Manager 

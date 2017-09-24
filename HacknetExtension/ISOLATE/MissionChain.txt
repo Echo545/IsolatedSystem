@@ -1,0 +1,4 @@
+goals -> missionStart -> missionEnd -> nextMission -> branchMissions -> posting -> email
+
+Follow the chain, ignoring non-existant elements.
+Or HN will throw up on you.
